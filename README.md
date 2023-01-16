@@ -1,1 +1,1 @@
-# Practicum-DataScienceProjects
+# Data Science Projects from Practicum Curriculum
