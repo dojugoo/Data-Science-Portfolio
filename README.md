@@ -8,11 +8,11 @@
 
 | No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |
-|1    |   Data Preprocessing   |     Credit Rating Analytics          | [Analyzing Music Preferences](https://github.com/dojugoo/Data-Science-Portfolio/blob/main/S1-music-pref-analysis/analysis.ipynb)          | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib |
-|2    |   Data Wrangling in R | Investigating the Coronavirus Pandemic | [Covid-19 Data Manipulation in R]| R, dplyr, readr, tidyr, ggplot2 | &#9744; |
-|3    |   Exploratory Data Analysis (EDA)   | Car Sales Analytics          | [Research on car sales ads]       | Python, Seaborn, Matplotlib | 
-|4    |   Statistical Data Analysis (SDA)   | Telecom prepaid plan analysis       | [Statistical Data Analysis on Real Telecom Data]         | Python, Numpy, SciPy, Seaborn, Matplotlib | 
-|5    |   Data Visualization and Storytelling with Data   | Online GameStore Analytics       | [Data Visualization and Storytelling for an Online GameStore]          | Python, Pandas, Squarify, Seaborn, Matplotlib |
+|1    |   Data Preprocessing   |     Music Preference Analytics          | [Analyzing Music Preferences](https://github.com/dojugoo/Data-Science-Portfolio/blob/main/S1-music-pref-analysis/analysis.ipynb)          | Python, Pandas |
+|2    |   Exploratory Data Analysis (EDA)   | Food Delivery Analytics          | [Instacart Analysis](https://github.com/dojugoo/Data-Science-Portfolio/blob/main/S2-instacart-analysis/eda.ipynb)       | Python, Matplotlib | 
+|3    |   Statistical Data Analysis (SDA)   | Telecom prepaid plan analysis       | [Statistical Data Analysis on Real Telecom Data] (https://github.com/dojugoo/Data-Science-Portfolio/blob/main/S3-telecom-analysis/s3-analysis.ipynb)        | Python, Numpy, SciPy, Seaborn, Matplotlib | 
+|4    |   Software Development Tools  |  Used Car Sales Analysis | [Deploying App with Streamlit] (https://github.com/dojugoo/S4-streamlit-app) | Streamlit, Github, Render, Python, Plotly, Matplotlib  |
+|4    |   Data Visualization and Storytelling with Data   | Online GameStore Analytics       | [Data Visualization and Storytelling for an Online GameStore]          | Python, Pandas, Squarify, Seaborn, Matplotlib |
 |6    |   Webscraping and Data Storage in databases  | Ride-sharing analytics       | [Data Collection, Webscraping and Storage for a new ride-sharing company]          | PostgreSQL, Python, BeautifulSoup, Seaborn, Matplotlib |
 |7    |   Real Data and Webscraping  | Web Scraping Data Scientist job openings with BeautifulSoup and Requests    | [Web Scraping with BeautifulSoup and Requests]          | Python, BeautifulSoup, Requests |
 |8    |   Machine Learning - Classification System  | Machine Learning for phone plan recommendation system    | [Phone plan recommendation system]         | Python, Scikit-learn, Pandas |
