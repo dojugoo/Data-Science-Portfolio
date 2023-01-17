@@ -1,7 +1,7 @@
 # Data Science Portfolio
 - This is a portfolio showcasing my data science projects from Practicum, including the skills and tools used for each project.
 ---
-# Technology stack
+# Relevant Toolset
 - **Languages**: Python
 - **Machine Learning**: Regression, Classification, Clustering, Logistic Regression, Random Forest, NLP, Neural Networks, Time Series Analysis, Computer Vision, Deep Learning.
 - **Tools**: NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, Keras, Spark, Matplotlib, Seaborn, Plotly, PyTorch, XGBoost, CatBoost, LightGBM
