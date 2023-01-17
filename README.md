@@ -1,10 +1,6 @@
 # Data Science Portfolio
-
+- This is a portfolio showcasing my data science projects from Practicum, including the skills and tools used for each project.
 ---
-
-- This is a portfolio of my ongoing and completed data science projects. The table also shows my technical skills and tools used for the projects.
-- The portfolio contains links to current projects in my portfolio and shows my hands-on experience on different areas in Data Science and Machine Learning.
-
 # Technology stack
 - **Languages**: Python
 - **Machine Learning**: Regression, Classification, Clustering, Logistic Regression, Random Forest, NLP, Neural Networks, Time Series Analysis, Computer Vision, Deep Learning.
@@ -12,7 +8,7 @@
 
 | No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |
-|1    |   Data Preprocessing   |     Credit Rating Analytics          | [Analyzing borrowers’ risk of defaulting]          | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib |
+|1    |   Data Preprocessing   |     Credit Rating Analytics          | [Analyzing Music Preferences](https://github.com/dojugoo/Data-Science-Portfolio/blob/main/S1-music-pref-analysis/analysis.ipynb)          | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib |
 |2    |   Data Wrangling in R | Investigating the Coronavirus Pandemic | [Covid-19 Data Manipulation in R]| R, dplyr, readr, tidyr, ggplot2 | &#9744; |
 |3    |   Exploratory Data Analysis (EDA)   | Car Sales Analytics          | [Research on car sales ads]       | Python, Seaborn, Matplotlib | 
 |4    |   Statistical Data Analysis (SDA)   | Telecom prepaid plan analysis       | [Statistical Data Analysis on Real Telecom Data]         | Python, Numpy, SciPy, Seaborn, Matplotlib | 
